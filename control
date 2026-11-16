@@ -1,0 +1,9 @@
+Package: com.ezwin.criticalops
+Name: Ezwin
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Critical Ops mod menu
+Maintainer: ezwin
+Author: ezwin
+Section: Tweaks
+Depends: mobilesubstrate
